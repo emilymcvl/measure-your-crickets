@@ -13,7 +13,7 @@ It was developed for Chapter 1 of the PhD dissertation *Crickets Under Pressure:
 | `supplement1A_data_prep.ipynb` | Sample training images from raw photo folders, standardise their size, and copy them into the DeepLabCut project |
 | `supplement1B_model_training.ipynb` | Build the training dataset, train the network, resume from a snapshot, and evaluate |
 | `supplement1C_model_testing.ipynb` | Run the trained model on new images, calculate distances, and export annotated images plus a measurements spreadsheet |
-| `fix_the_scale.ipynb` | Convert pixel distances to micrometres after images have been resized (scale bar correction) |
+| `fix_the_scale.ipynb` | Ignore - script to fix a mistake I made while developing (scale bar correction) |
 
 The notebooks are written for Google Colab with the project stored on Google Drive. They can run locally with minor path changes.
 
